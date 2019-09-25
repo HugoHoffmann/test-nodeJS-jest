@@ -1,0 +1,10 @@
+{
+  "name": "test-nodeJS-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HugoHoffmann/test-nodeJS-jest.git",
+  "license": "MIT",
+  "dependencies": {
+    "@rocketseat/omni": "^0.0.7"
+  }
+}
