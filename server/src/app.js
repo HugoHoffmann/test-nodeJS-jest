@@ -8,7 +8,7 @@ import routes from './routes';
 
 // Uncomment this line to enable database access
 // --------
-// import './database';
+import './database';
 
 class App {
   constructor() {
